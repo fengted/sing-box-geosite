@@ -1,0 +1,11 @@
+# 直连补充列表
+
+# 域名后缀匹配
+
+# 域名关键字匹配
+
+# 自用DNS
+DOMAIN-SUFFIX,fengted.me
+DOMAIN-SUFFIX,cusef.cn
+
+# self IPs
