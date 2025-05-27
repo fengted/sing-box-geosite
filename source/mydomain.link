@@ -8,6 +8,9 @@
 DOMAIN-SUFFIX,fengted.me
 DOMAIN-SUFFIX,cusef.cn
 DOMAIN-SUFFIX,chinausfocus.com
+DOMAIN-SUFFIX,hkforum.com
 
 # self IPs
 IP-CIDR,65.52.167.152/32,no-resolve
+IP-CIDR,23.101.13.182/32,no-resolve
+IP-CIDR,20.2.88.23/32,no-resolve
