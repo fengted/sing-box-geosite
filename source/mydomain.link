@@ -15,3 +15,11 @@ DOMAIN-SUFFIX,chinacurrent.com
 IP-CIDR,65.52.167.152/32,no-resolve
 IP-CIDR,23.101.13.182/32,no-resolve
 IP-CIDR,20.2.88.23/32,no-resolve
+
+# vps IPs
+
+# hk10
+IP-CIDR,20.187.174.28/32,no-resolve
+
+# hk30
+IP-CIDR,20.187.117.232/32,no-resolve
