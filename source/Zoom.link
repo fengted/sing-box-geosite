@@ -1,0 +1,15 @@
+# NAME: Zoom
+# AUTHOR: fengted
+# REPO: 
+# UPDATED: 2025-07-10 21:34:51
+# HOST: 0
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 3
+# HOST-WILDCARD: 0
+# IP-CIDR: 0
+# IP6-CIDR: 9
+# USER-AGENT: 0
+# TOTAL: 3
+HOST-SUFFIX,zoom.us,Zoom
+HOST-SUFFIX,zoom.com,Zoom
+HOST-SUFFIX,zoomapp.cloud,Zoom
